@@ -1,0 +1,19 @@
+window {
+	background-color: #000000;
+	border: 1px solid #ffffff;
+	border-radius: 0;
+}
+#input {
+	background-color: #000000;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	border-radius: 0;
+}
+#entry:selected {
+	background-color: transparent;
+	border: 1px solid #ffffff;
+}
+#entry {
+	outline-style: none;
+}
+
